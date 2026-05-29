@@ -1,0 +1,6 @@
+{
+  "name": "Aura",
+  "description": "A premium social app resembling Instagram with fullscreen reels, interactive stories, real-time chats, and AI curation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
